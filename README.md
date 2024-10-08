@@ -1,5 +1,7 @@
-<h2> Hey there! I'm Harold. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/HClavijo98/HClavijo98/blob/master/beavis-computer.gif" width="300"/>
+<h2> Hey there! I'm Harold. <img src="https://github.com/HClavijo98/HClavijo98/raw/main/Buo.gif" width="100" >
+
+</h2>
+<img align="right" alt="GIF" src="https://github.com/HClavijo98/HClavijo98/blob/main/beavis-computer.gif" width="300"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
