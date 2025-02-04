@@ -8,7 +8,7 @@
 - 🔭 &nbsp; I'm currently learning REACT Frontend Development.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Web Programming.
-- 💼 &nbsp; Looking for internships in Barcelona and surrounding areas.
+- 💼 &nbsp; Doing my internships in Eco Clic Hardware & Printing Solutions.
 - 🌱 &nbsp; Enthusiast in Artificial Intelligence and Video games.
 - ✍️ &nbsp; Watching anime and working out at the gym to keep up the pace.
 
