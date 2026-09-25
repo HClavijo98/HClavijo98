@@ -19,7 +19,6 @@
 - 🛢 &nbsp; MySQL | PostgreSQL 
 - 🔧 &nbsp; Visual Studio code | Eclipse | Git
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HClavijo98&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HClavijo98&theme=nord_dark)
 
 <h3> 🤝🏻 Connect with Me </h3>
