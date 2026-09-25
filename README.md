@@ -19,8 +19,7 @@
 - 🛢 &nbsp; MySQL | PostgreSQL 
 - 🔧 &nbsp; Visual Studio code | Eclipse | Git
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HClavijo98&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HClavijo98&layout=compact&text_color=daf7dc&bg_color=151515&cache=1)](https://github.com/devSouvik/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HClavijo98&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
