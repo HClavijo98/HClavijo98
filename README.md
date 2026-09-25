@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Harold. <img src="https://github.com/HClavijo98/HClavijo98/raw/main/Buo.gif" width="100" >
-
+<p style="color: red">hola</p>
 </h2>
 <img align="right" alt="GIF" src="https://github.com/HClavijo98/HClavijo98/blob/main/beavis-computer.gif" width="300"/>
 
