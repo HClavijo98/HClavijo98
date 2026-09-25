@@ -7,16 +7,16 @@
 
 - 🔭 &nbsp; I'm currently learning REACT Frontend Development.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Web Programming.
-- 💼 &nbsp; Doing my internships in Eco Clic Hardware & Printing Solutions.
-- 🌱 &nbsp; Enthusiast in Artificial Intelligence and Video games.
+- 🎓 &nbsp; Studying Telecommunications Engineering.
+- 💼 &nbsp; Working in Eco Clic Hardware & Printing Solutions, Spain.
+- 🌱 &nbsp; Enthusiast in Artificial Intelligence, Video games and Workout.
 - ✍️ &nbsp; Watching anime and working out at the gym to keep up the pace.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; PHP | Java | Laravel | Next
+- 💻 &nbsp; PHP | Java | Laravel | Next | Django
 - 🌐 &nbsp; React | JavaScript | Bootstrap | Tailwind | HTML | CSS
-- 🛢 &nbsp; MySQL | Xampp
+- 🛢 &nbsp; MySQL | PostgreSQL 
 - 🔧 &nbsp; Visual Studio code | Eclipse | Git
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HClavijo98&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
