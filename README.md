@@ -14,7 +14,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; PHP | Java | Laravel | Next | Django
+- 💻 &nbsp; PHP | Java | Laravel | Next | Django | Python
 - 🌐 &nbsp; React | JavaScript | Bootstrap | Tailwind | HTML | CSS
 - 🛢 &nbsp; MySQL | PostgreSQL 
 - 🔧 &nbsp; Visual Studio code | Eclipse | Git
